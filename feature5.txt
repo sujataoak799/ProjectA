@@ -1,1 +1,2 @@
-This is a file from develop branch
+This is a file from testforconflicts.
+
